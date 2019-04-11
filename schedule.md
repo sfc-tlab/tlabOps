@@ -1,38 +1,41 @@
 # This Semester Schedule
-This is assumed that is used for make schedule whole or some team(Security, Drone, Web, VR...etc).
+2019春研究会全体スケジュール
 
 ## Description
 This is just a template. 
 
-### First week (MM/DD)
+### First week (04/11)
 #### Contents 
-- Ice break
+- 自己紹介
+- プロジェクト紹介
 
-### 2th week (MM/DD)
+### 2th week (04/18)
 #### Contents 
-- Theme presentation
+- 旧人テーマ発表
+- メンバー確認
+- 持ち回り講義決め(未定)
 
-### 3th week (MM/DD)
+### 3th week (04/25)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 4th week (MM/DD)
+### 4th week (05/09)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 5th week (MM/DD)
+### 5th week (05/16)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 6th week (MM/DD)
+### 6th week (05/23)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 7th week (MM/DD)
+### 7th week (05/30)
 #### Contents 
 - Mid term presentation
   - WIP
@@ -40,37 +43,37 @@ This is just a template.
   - 卒論所信表明(GP1)
   - 卒論中間発表(GP2)
 
-### 8th week (MM/DD)
+### 8th week (06/06)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 9th week (MM/DD)
+### 9th week (06/13)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 10th week (MM/DD)
+### 10th week (06/20)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 11th week (MM/DD)
+### 11th week (06/27)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 12th week (MM/DD)
+### 12th week (07/04)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 13th week (MM/DD)
+### 13th week (07/11)
 #### Contents 
-- Lecture by Student
-- Group activity
+- 学生講義
+- グループ活動
 
-### 14th week (MM/DD)
+### 14th week (07/18)
 #### Contents 
 - Final presentaion
   - WIP最終
