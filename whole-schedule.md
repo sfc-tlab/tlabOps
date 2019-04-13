@@ -11,6 +11,7 @@ This is just a template.
 
 ### 2th week (04/18)
 #### Contents 
+- 全体写真撮影(west地区)
 - 旧人テーマ発表
 - メンバー確認
 - 持ち回り講義決め(未定)
@@ -29,6 +30,7 @@ This is just a template.
 #### Contents 
 - 学生講義
 - グループ活動
+- サーベイ発表
 
 ### 6th week (05/23)
 #### Contents 
