@@ -18,8 +18,10 @@ This is just a template.
 
 ### 3th week (04/25)
 #### Contents 
-- 学生講義
-- グループ活動
+- 学生講義 - neko(AI講義)
+- 活動報告 - 中川さん
+- ネタ紹介 - 武田先生
+- 各プロジェクトの活動報告
 
 ### 4th week (05/09)
 #### Contents 
