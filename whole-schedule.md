@@ -71,8 +71,14 @@ This is just a template.
 
 ### 12th week (07/04)
 #### Contents 
-- 学生講義
-- グループ活動
+- プロジェクト活動報告
+  - SFS update
+  - bustimer
+  - 鳥獣害対策
+  - FPV group
+  - 自治体連携
+  - Drone city
+  - 3D campus
 
 ### 13th week (07/11)
 #### Contents 
