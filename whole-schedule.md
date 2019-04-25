@@ -69,6 +69,8 @@ This is just a template.
 - 学生講義
 - グループ活動
 
+-- 発表はメンバー確定次第細かいスケジュールを決定します --
+
 ### 12th week (07/04)
 #### Contents 
 - プロジェクト活動報告
@@ -82,13 +84,13 @@ This is just a template.
 
 ### 13th week (07/11)
 #### Contents 
-- 学生講義
-- グループ活動
-
-### 14th week (07/18)
-#### Contents 
 - Final presentaion
   - WIP最終
   - TERM最終
   - 卒論ポスター発表(GP1)
   - 卒論最終発表(GP2)
+
+### 14th week (07/18)
+#### Contents 
+- 発表予備日
+- 時間が余った場合はなんか楽しい事をやる
