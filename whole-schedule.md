@@ -87,8 +87,8 @@ This is just a template.
 - Final presentaion
   - WIP最終
   - TERM最終
-  - 卒論ポスター発表(GP1)
-  - 卒論最終発表(GP2)
+  - GP1 期末発表
+  - GP2 最終発表
 
 ### 14th week (07/18)
 #### Contents 
