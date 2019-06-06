@@ -46,8 +46,8 @@ This is just a template.
 - Mid term presentation
   - WIP
   - TERM中間
-  - 卒論所信表明(GP1)
-  - 卒論中間発表(GP2)
+  - GP1 中間発表
+  - GP2 中間発表
 
 ### 8th week (06/06)
 #### Contents 
