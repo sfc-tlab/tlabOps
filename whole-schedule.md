@@ -74,13 +74,16 @@ This is just a template.
 ### 12th week (07/04)
 #### Contents 
 - プロジェクト活動報告
-  - SFS update
-  - bustimer
-  - 鳥獣害対策
-  - FPV group
-  - 自治体連携
-  - Drone city
-  - 3D campus
+- SFSのUI/UX調査、改善提案
+- bustimerのアップデート
+- ウェブセキュリティ
+- 森林での野生動物の調査
+- 自動運転ドローンの開発
+- FPVドローンレーサーの訓練
+- 自治体と連携してのプロジェクト
+- Drone City
+- 仮想空間のアーキテクチャの開発
+- 3Dモデリンググループ
 
 ### 13th week (07/11)
 #### Contents 
