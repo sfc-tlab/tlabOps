@@ -1,34 +1,30 @@
 # This Semester Schedule
-2019春研究会全体スケジュール
+2019秋研究会全体スケジュール
 
-## Description
-This is just a template. 
 
-### First week (04/11)
+### First week (09/26)
 #### Contents 
 - 自己紹介
 - プロジェクト紹介
 
-### 2th week (04/18)
+### 2th week (10/03)
 #### Contents 
 - 全体写真撮影(west地区)
 - 旧人テーマ発表
 - メンバー確認
 - 持ち回り講義決め(未定)
 
-### 3th week (04/25)
+### 3th week (10/10)
 #### Contents 
-- 学生講義 - neko(AI講義)
-- 活動報告 - 中川さん
-- ネタ紹介 - 武田先生
+- 学生講義
 - 各プロジェクトの活動報告
 
-### 4th week (05/09)
+### 4th week (10/17)
 #### Contents 
 - 学生講義
 - グループ活動
 
-### 5th week (05/16)
+### 5th week (10/24)
 #### Contents 
 - 学生講義
 - グループ活動
@@ -36,12 +32,12 @@ This is just a template.
   - 自分の調べるべき領域の論文を5本読んでくる
   - 内英語論文2本以上
 
-### 6th week (05/23)
+### 6th week (10/31)
 #### Contents 
 - 学生講義
 - グループ活動
 
-### 7th week (05/30)
+### 7th week (11/07)
 #### Contents 
 - Mid term presentation
   - WIP
@@ -49,43 +45,31 @@ This is just a template.
   - GP1 中間発表
   - GP2 中間発表
 
-### 8th week (06/06)
+### 8th week (11/28)
 #### Contents 
 - 学生講義
 - グループ活動
 
-### 9th week (06/13)
+### 9th week (12/05)
 #### Contents 
 - グループ活動
 
-### 10th week (06/20)
+### 10th week (12/12)
 #### Contents 
 - グループ活動
-- githubの使い方講習
 
-### 11th week (06/27)
+### 11th week (12/19)
 #### Contents 
-- 武田先生活動報告
 - グループ活動
 - 活動報告
 
 -- 発表はメンバー確定次第細かいスケジュールを決定します --
 
-### 12th week (07/04)
+### 12th week (12/26)
 #### Contents 
 - プロジェクト活動報告
-- SFSのUI/UX調査、改善提案
-- bustimerのアップデート
-- ウェブセキュリティ
-- 森林での野生動物の調査
-- 自動運転ドローンの開発
-- FPVドローンレーサーの訓練
-- 自治体と連携してのプロジェクト
-- Drone City
-- 仮想空間のアーキテクチャの開発
-- 3Dモデリンググループ
 
-### 13th week (07/11)
+### 13th week (01/09)
 #### Contents 
 - Final presentaion
   - WIP最終
@@ -93,7 +77,7 @@ This is just a template.
   - GP1 期末発表
   - GP2 最終発表
 
-### 14th week (07/18)
+### 14th week (01/16)
 #### Contents 
 - 発表予備日
 - 時間が余った場合はなんか楽しい事をやる
