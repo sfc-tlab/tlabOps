@@ -4,35 +4,35 @@ This is assumed that is used for make schedule whole or some team(Security, Dron
 ## Description
 This is just a template. 
 
-### First week (09/26)
+### First week (MM/DD)
 #### Contents 
 - Ice break
 
-### 2th week (10/03)
+### 2th week (MM/DD)
 #### Contents 
 - Theme presentation
 
-### 3th week (10/10)
+### 3th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 4th week (10/17)
+### 4th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 5th week (10/24)
+### 5th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 6th week (10/31)
+### 6th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 7th week (11/07)
+### 7th week (MM/DD)
 #### Contents 
 - Mid term presentation
   - WIP
@@ -40,40 +40,41 @@ This is just a template.
   - 卒論所信表明(GP1)
   - 卒論中間発表(GP2)
 
-### 8th week (11/28)
+### 8th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 9th week (12/05)
+### 9th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 10th week (12/12)
+### 10th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 11th week (12/19)
+### 11th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 12th week (12/26)
+### 12th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 13th week (01/09)
+### 13th week (MM/DD)
 #### Contents 
 - Lecture by Student
 - Group activity
 
-### 14th week (01/16)
+### 14th week (MM/DD)
 #### Contents 
 - Final presentaion
   - WIP最終
   - TERM最終
   - 卒論ポスター発表(GP1)
   - 卒論最終発表(GP2)
+
