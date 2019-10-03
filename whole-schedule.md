@@ -29,6 +29,10 @@
 - サーベイ発表 ()
   - 自分の調べるべき領域の論文を5本読んでくる
   - 内英語論文2本以上
+  - WIP        5+3min
+  - TERM中間   10+5min
+  - GP1 中間発表   15+5min
+  - GP2 中間発表   15+5min
 
 ### 6th week (10/31)
 #### Contents 
@@ -49,18 +53,18 @@
 ### 9th week (12/05)
 #### Contents 
 - Mid term presentation
-  - WIP
-  - TERM中間
-  - GP1 中間発表
-  - GP2 中間発表
+  - WIP        5+3min
+  - TERM中間   10+5min
+  - GP1 中間発表   15+5min
+  - GP2 中間発表   15+5min
   
 ### 10th week (12/12)
 #### Contents 
 - Mid term presentation
-  - WIP
-  - TERM中間
-  - GP1 中間発表
-  - GP2 中間発表
+  - WIP           5+3min
+  - TERM中間      10+5min
+  - GP1 中間発表   15+5min
+  - GP2 中間発表   15+5min
   
 ### 11th week (12/19)
 #### Contents 
@@ -76,17 +80,17 @@
 ### 13th week (01/09)
 #### Contents 
 - Final presentaion
-  - WIP最終
-  - TERM最終
-  - GP1 期末発表
-  - GP2 最終発表
+  - WIP        5+3min
+  - TERM中間   10+5min
+  - GP1 中間発表   15+5min
+  - GP2 中間発表   15+5min
 
 ### 14th week (01/16)
 #### Contents 
 - Final presentaion
-  - WIP最終
-  - TERM最終
-  - GP1 期末発表
-  - GP2 最終発表
+  - WIP        5+3min
+  - TERM中間   10+5min
+  - GP1 中間発表   15+5min
+  - GP2 中間発表   15+5min
 - 発表予備日
 - 時間が余った場合はなんか楽しい事をやる
