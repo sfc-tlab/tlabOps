@@ -20,6 +20,9 @@
 ### 4th week (10/17)
 #### Contents 
 - 学生講義
+   - アフリカ（あべま）
+   - Web development (neko)
+   - CPU 電子工作　（Fumi）
 
 ### 5th week (10/24)
 #### Contents 
